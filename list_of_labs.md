@@ -1,14 +1,14 @@
 # LABS | February 2019
 
 ## Week 1
-- [ ] [Git Conflicts](https://github.com/ta-data-bcn/lab-resolving-git-conflicts)
-- [ ] [List Comprehension](https://github.com/ta-data-bcn/lab-list-comprehensions)
-- [ ] [Tuple, Set & Dict](https://github.com/ta-data-bcn/lab-tuple-set-dict)
-- [ ] [String Operations](https://github.com/ta-data-bcn/lab-string-operations)
-- [ ] [Advanced RegEx](https://github.com/ta-data-bcn/lab-advanced-regex)
+- [X] [Git Conflicts](https://github.com/ta-data-bcn/lab-resolving-git-conflicts)
+- [X] [List Comprehension](https://github.com/ta-data-bcn/lab-list-comprehensions)
+- [X] [Tuple, Set & Dict](https://github.com/ta-data-bcn/lab-tuple-set-dict)
+- [X] [String Operations](https://github.com/ta-data-bcn/lab-string-operations)
+- [X] [Advanced RegEx](https://github.com/ta-data-bcn/lab-advanced-regex)
 - [ ] [Functional Programming](https://github.com/ta-data-bcn/lab-functional-programming)
 - [ ] [Error Handling](https://github.com/ta-data-bcn/lab-error-handling)
-- [ ] [Numpy Intro](https://github.com/ta-data-bcn/lab-numpy)
+- [X] [Numpy Intro](https://github.com/ta-data-bcn/lab-numpy)
 - [ ] [Lambda Functions](https://github.com/ta-data-bcn/lab-lambda-functions)
 
 ## Week 2
