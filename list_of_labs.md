@@ -13,13 +13,13 @@
 
 ## Week 2
 - [ ] [First Queries](https://github.com/ta-data-bcn/lab-mysql-first-queries)
-- [ ] [MySQL Select](https://github.com/ta-data-bcn/lab-mysql-select)
+- [X] [MySQL Select](https://github.com/ta-data-bcn/lab-mysql-select)
 - [ ] [Advanced MySQL](https://github.com/ta-data-bcn/lab-advanced-mysql)
-- [ ] [MySQL](https://github.com/ta-data-bcn/lab-mysql)
-- [ ] [Pandas Intro](https://github.com/ta-data-bcn/lab-intro-pandas)
-- [ ] [Importing and Exporting data](https://github.com/ta-data-bcn/lab-import-export)
-- [ ] [Map, reduce & filter](https://github.com/ta-data-bcn/lab-map-reduce-filter)
-- [ ] [Data Cleaning](https://github.com/ta-data-bcn/lab-data-cleaning)
+- [X] [MySQL](https://github.com/ta-data-bcn/lab-mysql)
+- [X] [Pandas Intro](https://github.com/ta-data-bcn/lab-intro-pandas)
+- [X] [Importing and Exporting data](https://github.com/ta-data-bcn/lab-import-export)
+- [X] [Map, reduce & filter](https://github.com/ta-data-bcn/lab-map-reduce-filter)
+- [X] [Data Cleaning](https://github.com/ta-data-bcn/lab-data-cleaning)
 
 ## Week 3
 - [ ] [Dataframe Calculation and Transformation](https://github.com/ta-data-bcn/lab-df-calculation-and-transformation)
