@@ -22,12 +22,12 @@
 - [X] [Data Cleaning](https://github.com/ta-data-bcn/lab-data-cleaning)
 
 ## Week 3
-- [ ] [Dataframe Calculation and Transformation](https://github.com/ta-data-bcn/lab-df-calculation-and-transformation)
-- [ ] [Code simplicity and efficiency](https://github.com/ta-data-bcn/lab-code-simplicity-efficiency)
-- [ ] [Refactoring](https://github.com/ta-data-bcn/lab-refactoring)
-- [ ] [Understanding other's code](https://github.com/ta-data-bcn/lab-understanding-others-code)
-- [ ] [API Scavenger Game](https://github.com/ta-data-bcn/lab-api-scavenger-game)
-- [ ] [Good practices](https://github.com/ta-data-bcn/lab-good-practices)
+- [X] [Dataframe Calculation and Transformation](https://github.com/ta-data-bcn/lab-df-calculation-and-transformation)
+- [X] [Code simplicity and efficiency](https://github.com/ta-data-bcn/lab-code-simplicity-efficiency)
+- [X] [Refactoring](https://github.com/ta-data-bcn/lab-refactoring)
+- [X] [Understanding other's code](https://github.com/ta-data-bcn/lab-understanding-others-code)
+- [X] [API Scavenger Game](https://github.com/ta-data-bcn/lab-api-scavenger-game)
+- [X] [Good practices](https://github.com/ta-data-bcn/lab-good-practices)
 - [ ] [Parallelization](https://github.com/ta-data-bcn/lab-parallelization)
 - [ ] [Web Scraping](https://github.com/ta-data-bcn/lab-web-scraping)
 
