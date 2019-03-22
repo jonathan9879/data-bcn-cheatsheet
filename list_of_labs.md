@@ -33,7 +33,7 @@
 
 ## Week 4
 - [X] [Stats foundations](https://github.com/ta-data-bcn/lab-statistics-foundations)
-- [ ] [Understanding descriptive statistics](https://github.com/ta-data-bcn/lab-understanding-descriptive-stats)
+- [X] [Understanding descriptive statistics](https://github.com/ta-data-bcn/lab-understanding-descriptive-stats)
 - [X] [Subsetting and descriptive statistics](https://github.com/ta-data-bcn/lab-subsetting-and-descriptive-stats)
 - [X] [Intro to Zeppelin](https://github.com/ta-data-bcn/lab-intro-to-zeppelin)
 - [ ] [Linear regression and correlations](https://github.com/ta-data-bcn/lab-linear-regression-correlation)
