@@ -6,7 +6,7 @@
 - [X] [Tuple, Set & Dict](https://github.com/ta-data-bcn/lab-tuple-set-dict)
 - [X] [String Operations](https://github.com/ta-data-bcn/lab-string-operations)
 - [X] [Advanced RegEx](https://github.com/ta-data-bcn/lab-advanced-regex)
-- [ ] [Functional Programming](https://github.com/ta-data-bcn/lab-functional-programming)
+- [X] [Functional Programming](https://github.com/ta-data-bcn/lab-functional-programming)
 - [ ] [Error Handling](https://github.com/ta-data-bcn/lab-error-handling)
 - [X] [Numpy Intro](https://github.com/ta-data-bcn/lab-numpy)
 - [ ] [Lambda Functions](https://github.com/ta-data-bcn/lab-lambda-functions)
