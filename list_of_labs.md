@@ -38,3 +38,6 @@
 - [X] [Intro to Zeppelin](https://github.com/ta-data-bcn/lab-intro-to-zeppelin)
 - [ ] [Linear regression and correlations](https://github.com/ta-data-bcn/lab-linear-regression-correlation)
 - [ ] [Advanced pandas](https://github.com/ta-data-bcn/lab-advanced-pandas)
+- [ ] [Pivot Table](https://github.com/ta-data-bcn/lab-pivot-table-and-correlation)
+- [ ] [Deep Pandas](https://github.com/ta-data-bcn/lab-pandas-deep-dive)
+- [ ] [Probability Intro](https://github.com/ta-data-bcn/lab-probability-intro)
