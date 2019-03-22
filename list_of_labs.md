@@ -7,9 +7,9 @@
 - [X] [String Operations](https://github.com/ta-data-bcn/lab-string-operations)
 - [X] [Advanced RegEx](https://github.com/ta-data-bcn/lab-advanced-regex)
 - [X] [Functional Programming](https://github.com/ta-data-bcn/lab-functional-programming)
-- [ ] [Error Handling](https://github.com/ta-data-bcn/lab-error-handling)
+- [X] [Error Handling](https://github.com/ta-data-bcn/lab-error-handling)
 - [X] [Numpy Intro](https://github.com/ta-data-bcn/lab-numpy)
-- [ ] [Lambda Functions](https://github.com/ta-data-bcn/lab-lambda-functions)
+- [X] [Lambda Functions](https://github.com/ta-data-bcn/lab-lambda-functions)
 
 ## Week 2
 - [ ] [First Queries](https://github.com/ta-data-bcn/lab-mysql-first-queries)
