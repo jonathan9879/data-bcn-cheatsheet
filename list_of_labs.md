@@ -35,6 +35,6 @@
 - [X] [Stats foundations](https://github.com/ta-data-bcn/lab-statistics-foundations)
 - [ ] [Understanding descriptive statistics](https://github.com/ta-data-bcn/lab-understanding-descriptive-stats)
 - [X] [Subsetting and descriptive statistics](https://github.com/ta-data-bcn/lab-subsetting-and-descriptive-stats)
-- [ ] [Intro to Zeppelin](https://github.com/ta-data-bcn/lab-intro-to-zeppelin)
+- [X] [Intro to Zeppelin](https://github.com/ta-data-bcn/lab-intro-to-zeppelin)
 - [ ] [Linear regression and correlations](https://github.com/ta-data-bcn/lab-linear-regression-correlation)
 - [ ] [Advanced pandas](https://github.com/ta-data-bcn/lab-advanced-pandas)
