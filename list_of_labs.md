@@ -14,7 +14,7 @@
 ## Week 2
 - [ ] [First Queries](https://github.com/ta-data-bcn/lab-mysql-first-queries)
 - [X] [MySQL Select](https://github.com/ta-data-bcn/lab-mysql-select)
-- [ ] [Advanced MySQL](https://github.com/ta-data-bcn/lab-advanced-mysql)
+- [X] [Advanced MySQL](https://github.com/ta-data-bcn/lab-advanced-mysql)
 - [X] [MySQL](https://github.com/ta-data-bcn/lab-mysql)
 - [X] [Pandas Intro](https://github.com/ta-data-bcn/lab-intro-pandas)
 - [X] [Importing and Exporting data](https://github.com/ta-data-bcn/lab-import-export)
