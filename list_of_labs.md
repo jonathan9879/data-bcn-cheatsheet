@@ -46,7 +46,7 @@
 - [X] [Probability distribution & Central limit theorem](https://github.com/ta-data-bcn/lab-probability-dist)
 - [ ] [Reading about statistic concepts I](https://github.com/ta-data-bcn/lab-reading-about-statistic-concepts)
 - [ ] [Confidence intervals](https://github.com/ta-data-bcn/lab-confidence-intervals)
-- [ ] [Intro to matplotlib & seaborn](https://github.com/ta-data-bcn/lab-matplotlib-seaborn)
+- [X] [Intro to matplotlib & seaborn](https://github.com/ta-data-bcn/lab-matplotlib-seaborn)
 - [ ] [Intro to Scipy](https://github.com/ta-data-bcn/lab-intro-to-scipy)
 - [ ] [Hypothesis Testing](https://github.com/ta-data-bcn/lab-hypothesis-testing)
 - [ ] [Reading about statistic concepts II](https://github.com/ta-data-bcn/lab-reading-about-statistic-concepts)
