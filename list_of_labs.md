@@ -43,7 +43,7 @@
 - [ ] [Probability Intro](https://github.com/ta-data-bcn/lab-probability-intro)
 
 ## Week 5
-- [ ] [Probability distribution & Central limit theorem](https://github.com/ta-data-bcn/lab-probability-dist)
+- [X] [Probability distribution & Central limit theorem](https://github.com/ta-data-bcn/lab-probability-dist)
 - [ ] [Reading about statistic concepts I](https://github.com/ta-data-bcn/lab-reading-about-statistic-concepts)
 - [ ] [Confidence intervals](https://github.com/ta-data-bcn/lab-confidence-intervals)
 - [ ] [Intro to matplotlib & seaborn](https://github.com/ta-data-bcn/lab-matplotlib-seaborn)
