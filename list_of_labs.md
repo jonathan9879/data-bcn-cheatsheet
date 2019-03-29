@@ -44,14 +44,14 @@
 
 ## Week 5
 - [X] [Probability distribution & Central limit theorem](https://github.com/ta-data-bcn/lab-probability-dist)
-- [ ] [Reading about statistic concepts I](https://github.com/ta-data-bcn/lab-reading-about-statistic-concepts)
+- [X] [Reading about statistic concepts I](https://github.com/ta-data-bcn/lab-reading-about-statistic-concepts)
 - [ ] [Confidence intervals](https://github.com/ta-data-bcn/lab-confidence-intervals)
 - [X] [Intro to matplotlib & seaborn](https://github.com/ta-data-bcn/lab-matplotlib-seaborn)
 - [ ] [Intro to Scipy](https://github.com/ta-data-bcn/lab-intro-to-scipy)
 - [ ] [Hypothesis Testing](https://github.com/ta-data-bcn/lab-hypothesis-testing)
-- [ ] [Reading about statistic concepts II](https://github.com/ta-data-bcn/lab-reading-about-statistic-concepts)
+- [X] [Reading about statistic concepts II](https://github.com/ta-data-bcn/lab-reading-about-statistic-concepts)
 - [ ] [Storytelling Data Visualization](https://github.com/ta-data-bcn/lab-storytelling-data-visualization)
-- [ ] [Reading about statistic concepts III](https://github.com/ta-data-bcn/lab-reading-about-statistic-concepts)
+- [X] [Reading about statistic concepts III](https://github.com/ta-data-bcn/lab-reading-about-statistic-concepts)
 - [ ] [Goodness-of-fit and Independence tests](https://github.com/ta-data-bcn/lab-goodfit-indeptests)
 - [ ] [2 Sample hypothesis tests](https://github.com/ta-data-bcn/lab-two-sample-hypothesis-tests)
 - [ ] [Plotting multile data series](https://github.com/ta-data-bcn/lab-plotting-multiple-data-series)
