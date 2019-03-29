@@ -12,7 +12,7 @@
 - [X] [Lambda Functions](https://github.com/ta-data-bcn/lab-lambda-functions)
 
 ## Week 2
-- [ ] [First Queries](https://github.com/ta-data-bcn/lab-mysql-first-queries)
+- [X] [First Queries](https://github.com/ta-data-bcn/lab-mysql-first-queries)
 - [X] [MySQL Select](https://github.com/ta-data-bcn/lab-mysql-select)
 - [X] [Advanced MySQL](https://github.com/ta-data-bcn/lab-advanced-mysql)
 - [X] [MySQL](https://github.com/ta-data-bcn/lab-mysql)
