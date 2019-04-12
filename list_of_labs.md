@@ -55,3 +55,15 @@
 - [ ] [Goodness-of-fit and Independence tests](https://github.com/ta-data-bcn/lab-goodfit-indeptests)
 - [ ] [2 Sample hypothesis tests](https://github.com/ta-data-bcn/lab-two-sample-hypothesis-tests)
 - [ ] [Plotting multile data series](https://github.com/ta-data-bcn/lab-plotting-multiple-data-series)
+
+## Week 7
+- [X] [Machine Learning World](https://github.com/ta-data-bcn/lab-machine-learning-world)
+- [ ] [Interactive Visualization](https://github.com/ta-data-bcn/lab-interactive-visualization)
+- [X] [Intro to Machine Learning](https://github.com/ta-data-bcn/lab-intro-to-ml)
+- [ ] [Supervised Learning / Feature Extraction](https://github.com/ta-data-bcn/lab-supervised-learning-feature-extraction)
+- [ ] [Cleaning Bonus](https://github.com/ta-data-bcn/lab-data-cleaning-bonus-challenge)
+- [ ] [Supervised Learning II](https://github.com/ta-data-bcn/lab-supervised-learning)
+- [ ] [Supervised Learning III](https://github.com/ta-data-bcn/lab-supervised-learning-sklearn)
+- [ ] [Time Series](https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b)
+- [ ] [Unsupervised Learning](https://github.com/ta-data-bcn/lab-unsupervised-learning)
+- [ ] [Unsupervised Learning II](https://github.com/ta-data-bcn/lab-unsupervised-learning-and-sklearn)
